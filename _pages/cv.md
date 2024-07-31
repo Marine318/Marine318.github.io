@@ -57,11 +57,16 @@ to issue a paper:
 * Computer vision
 * Machine learning
   
-Talks
+OWN ADVANTAGE
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Own advantages for scientific research:**
+* Many mathematical modeling competitions have made me have a deeper understanding of the writing of papers
+and some algorithms, and I can integrate the skills contained in algorithms into artificial intelligence-related
+scientific research, which is helpful for solving problems.
+* Some project competitions let me know teamwork, so that I can better deal with the relationship with partners in
+scientific research projects.
+* GPA and competition are inseparable from long-term and intensive study, which will enable me to have higher
+concentration in scientific research.
   
 Teaching
 ======
