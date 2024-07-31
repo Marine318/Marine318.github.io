@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Artificial intelligence, Huazhong University of Science and Technology, 2022
+* Time:Sep 2022 – Present
+* GPA: 89.12/100
+* GPA Ranking: 16/107
 
 Work experience
 ======
