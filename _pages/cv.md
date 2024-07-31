@@ -68,11 +68,10 @@ scientific research projects.
 * GPA and competition are inseparable from long-term and intensive study, which will enable me to have higher
 concentration in scientific research.
   
-Teaching
+A message to myself 
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+The harder you work, the luckier you get !
+
   
 Service and leadership
 ======
