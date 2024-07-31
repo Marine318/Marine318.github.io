@@ -35,14 +35,11 @@ is used for positioning, and finally the main functions are realized.
       In the design of agricultural simulation pepper planting machine, I undertook **visual task recognition** and
 completed related tasks by controlling the movement of the robot arm through visual recognition.
   
-Skills
+SELECTED AWARDS AND HONORS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scholarship of Academic Excellence (Top 10%), Huazhong University of Science and Technology&emsp;&emsp;2022
+* 
+
 
 Publications
 ======
