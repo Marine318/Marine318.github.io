@@ -46,11 +46,16 @@ SELECTED AWARDS AND HONORS
 * Honorable Mention of The Mathematics Contest in Modeling(**Top 30%**)&emsp;&emsp;2024
 
 
-Publications
+RESEARCH INTERESTS
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  After the study of artificial intelligence professional knowledge in my sophomore year, as well as the practice of
+some projects and competitions, I think I have the knowledge foundation for scientific research and study, which
+stimulates my enthusiasm for scientific research and study. I hope to conduct research on the following aspects and strive
+to issue a paper:
+* Deep learning
+* LLM
+* Computer vision
+* Machine learning
   
 Talks
 ======
