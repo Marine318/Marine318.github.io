@@ -38,7 +38,12 @@ completed related tasks by controlling the movement of the robot arm through vis
 SELECTED AWARDS AND HONORS
 ======
 * Scholarship of Academic Excellence (Top 10%), Huazhong University of Science and Technology&emsp;&emsp;2022
-* 
+* Scholarship of school merit student (Top 5%), Huazhong University of Science and Technology&emsp;&emsp;2023
+* The second prize of China Undergraduate Mathematical Contest in Modeling(Top 2.2% in China)&emsp;&emsp;2023
+* The first of The National undergraduate mechanical innovative design Competition(Top 3% in China)&emsp;&emsp;2024
+* The first of The Chinese Mathematics Competitions(Top 7% in Hubei Province)&emsp;&emsp;2024
+* The second prize of Honorable Mention of The Mathematics Contest in Modeling(Top 20% in China)&emsp;&emsp;2024
+* Honorable Mention of The Mathematics Contest in Modeling(Top 30%)&emsp;&emsp;2024
 
 
 Publications
