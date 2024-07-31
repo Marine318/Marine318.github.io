@@ -73,6 +73,4 @@ A message to myself
 The harder you work, the luckier you get !
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
