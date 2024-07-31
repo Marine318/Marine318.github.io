@@ -9,20 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * B.S. in Artificial intelligence, Huazhong University of Science and Technology, 2022
 * Time:Sep 2022 – Present
 * GPA: 89.12/100
 * GPA Ranking: 16/107
 
-Work experience
+RESEARCH EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* IA Team, Huazhong University of Science and Technology
+  * Research assistant, supervised by Prof. Dingxin HE Aug 2023 – July 2024
+    Part of the visual processing task and circuit design in the research of intelligent car camera tracking
+multi-element track.
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
