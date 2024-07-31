@@ -19,20 +19,21 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
 * IA Team, Huazhong University of Science and Technology
-  * Research assistant, supervised by Prof. Dingxin HE &emsp;&emsp;&emsp;&emsp;Aug 2023 – July 2024
+  * Research assistant, supervised by Prof. Dingxin HE &emsp;&emsp;&emsp;&emsp;Aug 2023 – Jul 2024
 
       Part of **the visual processing task** and **circuit design** in the research of intelligent car camera tracking
 multi-element track.
 * Brain-inspired intelligence and Intelligent Control Lab
-  * Research assistant, supervised by Prof. Miaomiao WANG &emsp;&emsp;&emsp;&emsp;March 2024 – Aug 2024
+  * Research assistant, supervised by Prof. Miaomiao WANG &emsp;&emsp;&emsp;&emsp;Mar 2024 – Aug 2024
 
       In the UAV automatic control positioning and recognition pictures, **Opencv** is used for picture recognition and **Ros**
 is used for positioning, and finally the main functions are realized.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* HUSTROBOCON, Huazhong University of Science and Technology
+  * Research assistant, supervised by Prof. Xiqiu LI and Yunhong MENG &emsp;&emsp;&emsp;&emsp;Aug 2023 – Jul 2024
+
+      In the design of agricultural simulation pepper planting machine, I undertook **visual task recognition** and
+completed related tasks by controlling the movement of the robot arm through visual recognition.
   
 Skills
 ======
