@@ -23,10 +23,10 @@ RESEARCH EXPERIENCE
 
       Part of **the visual processing task** and **circuit design** in the research of intelligent car camera tracking
 multi-element track.
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Brain-inspired intelligence and Intelligent Control Lab
+  * Research assistant, supervised by Prof. Miaomiao WANG &emsp;&emsp;&emsp;&emsp;March 2024 – Aug 2024
+
+      Part of **the visual processing task** and **circuit design** in the research of intelligent car camera tracking
 
 * Summer 2015: Research Assistant
   * Github University
