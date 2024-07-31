@@ -19,7 +19,7 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
 * IA Team, Huazhong University of Science and Technology
-  * Research assistant, supervised by Prof. Dingxin HE &emsp;  Aug 2023 – July 2024
+  * Research assistant, supervised by Prof. Dingxin HE &emsp;&emsp;   Aug 2023 – July 2024
 
       Part of the visual processing task and circuit design in the research of intelligent car camera tracking
 multi-element track.
