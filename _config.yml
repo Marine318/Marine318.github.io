@@ -203,7 +203,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  Biography:
+  biography:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -243,10 +243,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Biography
+  # _biography
   - scope:
       path: ""
-      type: Biography
+      type: biography
     values:
       layout: single
       author_profile: true
